@@ -2,7 +2,7 @@ package Exercicio3;
 
 import java.util.Scanner;
 
-public class SalárioBruto {
+public class main {
 
 	public static void main(String[] args) {
 		
